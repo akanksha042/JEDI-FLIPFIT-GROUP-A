@@ -20,6 +20,7 @@ public class GymFlipFitOwnerMenu {
      * getFlipFitOwnerView
      * @param gymOwner
      * @throws InvalidChoiceException
+     * @author: Aditi Sahu
      */
     public static void getFlipFitOwnerView(FlipFitUser gymOwner) throws InvalidChoiceException {
         try {

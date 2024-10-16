@@ -23,6 +23,7 @@ public class GymFlipFitCustomerMenu {
      * getFlipFitCustomerMenu
      * @param gymCustomer
      * @throws InvalidChoiceException
+     * @author: Aditi Sahu
      */
     public static void getFlipFitCustomerMenu(FlipFitUser gymCustomer) throws InvalidChoiceException {
         try {

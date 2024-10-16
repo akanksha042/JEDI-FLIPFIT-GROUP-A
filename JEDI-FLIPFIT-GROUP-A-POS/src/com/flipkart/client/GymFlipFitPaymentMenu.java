@@ -6,6 +6,9 @@ import com.flipkart.dao.interfaces.IFlipFitPaymentsDAO;
 
 import java.util.Scanner;
 
+/**
+ * @author: Aditi Sahu
+ */
 public class GymFlipFitPaymentMenu {
     private static final IFlipFitPaymentsDAO flipFitPaymentsDAO = new FlipFitPaymentsDAOImpl();
 

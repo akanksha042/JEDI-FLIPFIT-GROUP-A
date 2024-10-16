@@ -15,8 +15,8 @@ public class GymFlipFitAdminMenu {
 
     /**
      * getAdminView
-     *
      * @throws InvalidChoiceException
+     * @author: Aditi Sahu
      */
     public static void getAdminView() throws InvalidChoiceException {
         try {

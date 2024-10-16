@@ -25,6 +25,7 @@ public class GymFlipFitApplication {
      *
      * @param args
      * @throws InvalidChoiceException
+     * @author: Aditi Sahu
      */
     public static void main(String[] args) throws InvalidChoiceException {
         try {
